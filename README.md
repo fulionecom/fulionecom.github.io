@@ -7,3 +7,9 @@
 # 地址与访问
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;第一福利导航永久地址为：fulione.com，目前大陆地区无法访问，你依然可以透过代理访问，从网站获取最新地址。你也可以安装 Android 客户端、IOS 客户端，或下载 Windows 网址发布器保存备用，亦可通过关注电报频道、发送邮件、地址发布页等与我们保持联络。
+
+Android 客户端：[fulione v1.2.12.apk](https://github.com/fulionecom/fulionecom.github.io/releases/download/AndroidAPK/fulione.v1.2.12.apk)
+
+Windows 网址发布器：[fulione v2.2.zip](https://github.com/fulionecom/fulionecom.github.io/releases/download/WidowsEXE/fulione.v2.2.zip)
+
+IOS 客户端：[fulione.mobileconfig](https://github.com/fulionecom/fulionecom.github.io/releases/download/IOSMobileconfig/fulione.mobileconfig)
